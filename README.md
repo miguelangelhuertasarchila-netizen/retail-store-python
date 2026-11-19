@@ -23,3 +23,4 @@ This project served as the functional prototype for my later object-oriented des
 
 ## Technologies
 - Python 3
+- Tkinter (Graphical User Interface)
